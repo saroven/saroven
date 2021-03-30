@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **nginx and design patterns in php**
 - 👯 I'm looking to collaborate on **resource documentation on bangla**
 - 💬 Ask me about **programming life**
-- 📫 How to reach me: Mail **rubelc04@gmail.com** Phone **+8801635449686**
+- 📫 How to reach me: Mail **ashah3562@gmail.com** Phone **+880**
 
 ![Saroven's github status](https://github-readme-stats.vercel.app/api?username=saroven&count_private=true&show_icons=true&hide=issues&theme=dracula)
 
@@ -14,7 +14,7 @@
 
 
 <!--
-**mobaarok/mobaarok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**saroven/saroven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
