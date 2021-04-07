@@ -1,12 +1,12 @@
 **Hi there 👋**
 # I'm Mohammad Shah Alam :child:
-  **💻Laravel Web Application Developer**
+  **💻Web Application Developer**
 
-- 🔭 I’m currently working on a **laravel application [Doctor Appointment](#)**
-- 🌱 I’m currently learning **nginx and design patterns in php**
+- 🔭 I’m currently working on a **Web Application [Real Time Chat](#)**
+- 🌱 I’m currently learning **React**
 - 👯 I'm looking to collaborate on **resource documentation on bangla**
-- 💬 Ask me about **programming life**
-- 📫 How to reach me: Mail **ashah3562@gmail.com** Phone **+880**
+- 💬 Ask me about **programming**
+- 📫 Reach me at: Email **ashah3562@gmail.com** Phone **+8801833825028**
 
 ![Saroven's github status](https://github-readme-stats.vercel.app/api?username=saroven&count_private=true&show_icons=true&hide=issues&theme=dracula)
 
