@@ -2,8 +2,8 @@
 # I'm Mohammad Shah Alam :child:
   **💻Web Application Developer**
 
-- 🔭 I’m currently working on a **Nothimg**
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on a **Javascript Project**
+- 🌱 I’m currently learning **JavaScript and React JS**
 - 👯 I'm looking to collaborate on **resource documentation on bangla**
 - 💬 Ask me about **programming**
 - 📫 Reach me at: Email **ashah3562@gmail.com** Phone **+8801833825028**
