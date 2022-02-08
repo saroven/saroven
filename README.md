@@ -1,9 +1,9 @@
 **Hello World 👋**
 # I'm Mohammad Shah Alam :child:
-  **💻Web Application Developer**
+  **💻Backend Developer(PHP/Laravel)**
 
-- 🔭 I’m currently working on a **Javascript Project**
-- 🌱 I’m currently learning **JavaScript and React JS**
+- 🔭 I’m currently working on a **Laravel Project**
+- 🌱 I’m currently learning **HTML/CSS**
 - 👯 I'm looking to collaborate on **resource documentation on bangla**
 - 💬 Ask me about **programming**
 - 📫 Reach me at: Email **ashah3562@gmail.com** Phone **+8801833825028**
