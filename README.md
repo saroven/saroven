@@ -82,9 +82,9 @@ Find out more about me & feel free to connect with me here:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saroven&hide_border=true&theme=radical" />
 </p>
 
-## 🔝 Most used languages & Activity Graph
+<!-- ## 🔝 Most used languages & Activity Graph -->
 
-<p align="center">
+<!-- <p align="center">
     <a href="#"><img width="50%" height="192px" alt="saroven's Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saroven&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" /></a>
     <a href="#"><img width="48%" alt="saroven's Contribution graph" src="https://activity-graph.herokuapp.com/graph?username=saroven&theme=dracula" height="200px"/></a>
-</p>
+</p> -->
