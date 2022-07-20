@@ -39,7 +39,7 @@ Find out more about me & feel free to connect with me here:
 
 ## ⚡ Tech Stack
 
-### 🚀 Languages
+### 🚀 Web Programming & Other Languages
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
