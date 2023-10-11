@@ -2,13 +2,13 @@
 
 [comment]: <> ( <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=23&center=true&lines=Backend+Developer;Always+learning+new+things;Always+open+to+collaborate"></a>)
 
--  📖 Pursuing my Bachelor of Science in Computer Science and Engineering from [Green University of Bangladesh](https://green.edu.bd/).
-
--  🧑🏻‍💻 Tech enthusiast and Backend Developer.
+-  🧑🏻‍💻 Junior Software Engineer at [Skylark Soft Ltd](https://www.skylarksoft.com/ ).
+  
+-  📖 Completed Bachelor of Science in Computer Science and Engineering from [Green University of Bangladesh](https://green.edu.bd/).
 
 -  💡 Always open to collaborating on projects and innovative ideas.
 
--  💻 Currently learning [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/) and [React](https://reactjs.org/)
+-  💻 Currently learning [Nuxt.js](https://www.w3schools.com/html/)
 
 Find out more about me & feel free to connect with me here:
 
@@ -42,9 +42,6 @@ Find out more about me & feel free to connect with me here:
 ### 🚀 Web Programming & Other Languages
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -52,8 +49,9 @@ Find out more about me & feel free to connect with me here:
 ### 🧩 Libraries & Framework
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vue](https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vuedotjs&logoColor=44E192)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vuedotjs&logoColor=44E192)
+![Nuxt.js](https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&color=222222&logo=Nuxt.js&logoColor=00DC82&label=)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### 🗄️ Database
@@ -65,6 +63,7 @@ Find out more about me & feel free to connect with me here:
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
@@ -78,8 +77,8 @@ Find out more about me & feel free to connect with me here:
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saroven&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saroven&hide_border=true&theme=radical" />
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saroven&show_icons=true&hide_border=true&theme=radical" /> -->
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=saroven&hide_border=true&theme=radical" />
 </p>
 
 <!-- ## 🔝 Most used languages & Activity Graph -->
