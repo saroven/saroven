@@ -2,7 +2,7 @@
 
 [comment]: <> ( <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=23&center=true&lines=Backend+Developer;Always+learning+new+things;Always+open+to+collaborate"></a>)
 
--  🧑🏻‍💻 Junior Software Engineer at [Skylark Soft Ltd](https://www.skylarksoft.com/ ).
+-  🧑🏻‍💻 Junior Software Engineer at [Quant Fintech](https://www.quantfintech.ai/ ).
   
 -  📖 Completed Bachelor of Science in Computer Science and Engineering from [Green University of Bangladesh](https://green.edu.bd/).
 
